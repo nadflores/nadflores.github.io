@@ -6,7 +6,7 @@ profile: true
 
 Hi there! I am a web developer living in the Philippines. I grew up in a small island in the province and now I work here remotely from home. I love spending time with my wife after a long day of coding.
 
-Much about personal life, I really love to code. I actually taught myself how to write code but mostly I learned from reading other’s work.
+I really love to code. I actually taught myself how to write code but mostly I learned from reading other’s work.
 
 
 Currently, I am the lead AngularJS developer of [DrWealth][drwealth] - an online financial planning, portfolio and management application based from Singapore. And I am working on a 2.0 version of the app which will be released later this year.
