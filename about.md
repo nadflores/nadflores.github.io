@@ -16,6 +16,7 @@ I also play acoustic guitar and love to hear all sorts of acoustic instrumentals
 TECHNOLOGY STACK
 
 - Programming Language: **Ruby**, **Javascript**, Coffescript, HTML, CSS
+
 - Web Framework: **Ruby on Rails**
 - Frontend Web Frameworks: **AngularJS**, jQuery, jQuery UI
 - UI Frameworks: Bootstrap, Foundation 4/5
