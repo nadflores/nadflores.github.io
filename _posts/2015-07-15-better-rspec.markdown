@@ -1,5 +1,5 @@
 ---
-title:  "Better Rpsec"
+title:  "Better RSpec"
 date:   2015-07-15 9:00:00
 description: Writing good test suites
 ---
@@ -7,7 +7,7 @@ description: Writing good test suites
 What better way to start a programming blog than to write some good test suites. 
 
 ## 1. How to describe your methods
-When I was learning how to write a test in Rpsec, like testing a simple method:
+When I was learning how to write a test in [RSpec][rspec], like testing a simple method:
 
 ``` ruby
   def add_two_numbers(a, b)
@@ -100,6 +100,7 @@ It lets you test associations, validations and more.
 I always use this gem. It watches your test files and automagically run your specs.
 Check the repo for installation guide and setup.
 
+[rspec]: http://rspec.info/
 [factory_girl]: https://github.com/thoughtbot/factory_girl
 [shoulda]: https://github.com/thoughtbot/shoulda-matchers
 [thoughtbot]: https://robots.thoughtbot.com
