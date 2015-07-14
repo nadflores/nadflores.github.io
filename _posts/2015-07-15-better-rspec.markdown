@@ -10,8 +10,12 @@ What better way to start a programming blog than to write some good test suites.
 When I was learning how to write a test in [RSpec][rspec], like testing a simple method:
 
 ``` ruby
-  def add_two_numbers(a, b)
-    a + b
+  class Calculator
+
+    def self.add_two_numbers(a, b)
+      a + b
+    end
+
   end
 ```
 
@@ -84,7 +88,7 @@ Learn more about [Factory Girl][factory_girl].
 
 ## 4. Use matchers
 If you're using Rails, [thoughtbot][thoughtbot] created a wonderful gem called [shoulda_matchers][shoulda].
-It lets you test associations, validations and more.
+It lets you test associations, validations and more. Perfect for testing your models.
 
 ```ruby
   describe Person do
