@@ -10,7 +10,7 @@ highlighter: pygments
 paginate: 20
 baseurl: /
 domain_name: 'http://nadflores.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-65171017-1'
 
 disqus_shortname: 'nadflores'
 
