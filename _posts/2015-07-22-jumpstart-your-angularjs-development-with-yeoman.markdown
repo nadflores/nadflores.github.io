@@ -1,6 +1,6 @@
 ---
 title:  "Jumpstart Your AngularJS Development with Yeoman"
-date:   2015-07-20 9:00:00
+date:   2015-07-22 9:00:00
 description: A scaffolding tool for AngularJS
 ---
 
