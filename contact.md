@@ -5,7 +5,7 @@ permalink: contact/
 
 # Contact me
 <br>
-Find me on / [Github][github] / [LinkedIn][linkedin] or just say *Hello* at [floresnad2@gmail.com][email]
+Find me on / [Github][github] / [LinkedIn][linkedin] or just say *Hello* at [floresnadc@gmail.com][email]
 
 {% include footer.html %}
 
